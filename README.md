@@ -35,6 +35,8 @@ Make a Website Mobile-Friendly Using CSS Media Queries.
 - ❌ Fixed overflow issues and horizontal scrolling
 
 
+[image]{https://github.com/Deepak172003/Task-4/blob/c88f4582ac306b7c5cce2735a7adeab525185f7d/Screenshot%20(54).png}
+
 
 
 
