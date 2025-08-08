@@ -36,6 +36,7 @@ Make a Website Mobile-Friendly Using CSS Media Queries.
 
 
 [image]{https://github.com/Deepak172003/Task-4/blob/c88f4582ac306b7c5cce2735a7adeab525185f7d/Screenshot%20(54).png}
+[image]{https://github.com/Deepak172003/Task-4/blob/ac418dd0ab526bd438c8053f89b1241af430294e/Screenshot%20(55).png}
 
 
 
