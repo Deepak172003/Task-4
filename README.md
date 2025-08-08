@@ -1,7 +1,7 @@
 Make a Website Mobile-Friendly Using CSS Media Queries.
 
 
-# 🌿 Fresh Fields – Responsive Organic Vegetable Store
+# 🌿 Fresh Fields – Responsive Organic Vegetables & Fruits Store
 
 
 ## 📌 Task Objective
